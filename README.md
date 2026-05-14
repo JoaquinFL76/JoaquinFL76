@@ -28,4 +28,4 @@ Building practical repositories that connect business needs, data and technology
 
 ## Contact
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/joaquinfndezlobato/)
-- Location: La Rioja / Valladolid, Spain
+- Location: La Rioja, Spain
