@@ -1,6 +1,6 @@
 # Joaquín Fernández Lobato
 
-**Hybrid Business + Technology Profile | B2B Development | BI / Data | Python, SQL & AI applied to business**
+**Hybrid Business + Technology profile | B2B, BI/Data, Python, SQL and AI applied to business**
 
 I bring 20+ years of experience in B2B business development, key accounts, consultative sales and technology-driven solutions.
 
