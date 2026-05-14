@@ -4,7 +4,7 @@
 
 I bring 20+ years of experience in B2B business development, key accounts, consultative sales and technology-driven solutions.
 
-My background combines software, Business Intelligence / Data Warehouse, telecom, electronic security and professional channel environments.
+My background includes Business Intelligence / Data Warehouse foundations and international experience in Italy.
 
 This GitHub reflects my natural evolution from business + technology toward data, automation and AI applied to real business problems.
 
